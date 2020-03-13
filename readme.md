@@ -9,6 +9,7 @@
 ## Table of Contents
 
 * [Amazon Web Services](AWS/readme.md)
+* [Artificial Intelligence](AI/readme.md)
 
 
 ## Contributing
