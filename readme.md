@@ -11,6 +11,8 @@
 * [Amazon Web Services](AWS/readme.md)
 * [Artificial Intelligence](AI/readme.md)
 * [Engineering Articles](Engineering/readme.md)
+* [iOS](iOS/readme.md)
+* [Management](Management/readme.md)
 
 
 ## Contributing
