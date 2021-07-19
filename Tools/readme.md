@@ -50,6 +50,7 @@
 - [IconDuck - free icons pack](https://iconduck.com/)
 - [FlatIcon - free icons pack](https://www.flaticon.com/)
 - [Unsplash - free image database](https://unsplash.com/)
+- [SVGArtista - animate your SVG files](https://svgartista.net)
 
 ## Mac
 
