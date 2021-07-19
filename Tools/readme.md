@@ -8,8 +8,16 @@
 ## Table of Contents
 
 - [Websites](#websites)
+- [Bash](#bash)
+- [APIs utilities](#apis)
+- [Web Development](#web)
+- [Design](#design)
+- [Mac](#mac)
+- [iOS](#ios)
+- [Time Tracking](#time-tracking)
+- [Great topics to follow](#great-topics-to-follow)
 
-## Useful Websites
+## Websites
 
 - [4Devs - A couple of useful services for developers](https://www.4devs.com.br/)
 - [Repository to help you build anything](https://github.com/danistefanovic/build-your-own-x)
@@ -30,7 +38,7 @@
 - [Request Bin - Service for testing HTTP Requests](https://pipedream.com/requestbin)
 - [Request Hub - Service for testing HTTP Requests](https://github.com/kyledayton/requesthub)
 
-## Web Development
+## Web
 
 - [Pesticide - Useful extension for debug layouts - Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
 - [Pesticide - Useful extension for debug layouts - Firefox](https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/)
