@@ -24,6 +24,7 @@
 - [Extension to make a couple of sites dark](https://darkreader.org)
 - [RegEx utilities](http://regex101.com/)
 - [Use your browser with mouse gestures](https://github.com/Robbendebiene/Gesturefy)
+- [QuickType - Transform JSON into your favorite language object](https://app.quicktype.io)
 
 ## Bash
 
