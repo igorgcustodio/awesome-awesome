@@ -16,6 +16,7 @@
 - [iOS](#ios)
 - [Time Tracking](#time-tracking)
 - [Great topics to follow](#great-topics-to-follow)
+- [General](#general)
 
 ## Websites
 
@@ -52,6 +53,7 @@
 - [FlatIcon - free icons pack](https://www.flaticon.com/)
 - [Unsplash - free image database](https://unsplash.com/)
 - [SVGArtista - animate your SVG files](https://svgartista.net)
+- [Tailor Brands - Tool to create logos based on your business](tailorbrands.com)
 
 ## Mac
 
@@ -70,3 +72,7 @@
 ## Great topics to follow
 
 - [Programming Topic on Twitter](https://twitter.com/i/topics/848921413196984320)
+
+## General
+
+- [Namelix - Tool to help you create names](https://namelix.com)
