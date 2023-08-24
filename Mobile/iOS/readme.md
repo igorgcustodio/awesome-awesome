@@ -48,3 +48,10 @@
 - [Real-World Unit Testing in Swift - EN](https://www.vadimbulavin.com/real-world-unit-testing-in-swift/)
 - [Unit Testing Best Practices on iOS with Swift - EN](https://www.vadimbulavin.com/unit-testing-best-practices-on-ios-with-swift/)
 - [Unit Testing Asynchronous Code in Swift - EN](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/)
+
+## TODO
+
+This that I need to study and learn more about
+
+- Type erasure
+- Swizzle
